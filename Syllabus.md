@@ -1,4 +1,4 @@
-# Ideation & Methodologies (Fall 2018)
+# Ideation & Methodologies
 
 University of Georgia | Lamar Dodd School of Art | Fall 2018
 
