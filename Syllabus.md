@@ -120,23 +120,55 @@ Networks
 
 Form groups of two to research an artist (assigned in class) who makes sense of the world through its material reality. Create a 5-minute, 20 slides Are.na presentation and be ready to present to class on Tuesday. Be sure to include the following information in your presentation:
 
-Artist bio
+- Artist bio
 - What mediums are they investigating?
 - How does the artist collect / produce their mediums? 
 - Why are these mediums important to the artist? 
 - How is the work received in the public sphere? 
 
+## 1. Materiality 	
+
+### Week 1 | Tangible Matter	
+
+#### TUESDAY, August 21 
+
+- Artist Research #1 Presentation
+- Intro to Tangible Matter
+- Project #1: Mapping Tangible Matter: natural, synthetic, artificial
+
+Collect and bring THREE materials to Thursday’s class 
+
+#### THURSDAY, August 23
+
+- Bioplastic Workshop
+
+Read “How to Be Complicit with Materials” by Petra Lange-Berndt and be ready to discuss on Tuesday
+
+### Week 2
+
+#### TUESDAY, August 28
+
+- Reading discussion
+- Kombucha Leather Workshop
+- Kudzu Paper-making Workshop 
+
+#### THURSDAY, August 30
+
+- Project #2: Mapping Object: form groups of two to create a map that traces the history of how an object (assigned in class) is made. What kind of raw materials are involved and what type of human / mechanical process took place? Present to class
+
+Read “Material” by Monika Wagner and be ready to discuss on Tuesday
+
 ## 2. System
 
 ### Week 5 | Loop
 	
-#### Tuesday, September 18
+#### TUESDAY, September 18
 
 - Artist Research #2 Presentation 
 - Intro to Repetition, Pattern, and Rhythm 
 - Project #6: Choose a thing (assigned in class), render 20 variations of the thing and arrange your renderings in a 5 x 4 grid
 
-#### Thursday, September 20
+#### THURSDAY, September 20
 
 - Intro to the Art of Translation 
 - Project #7: Study someone else’s Project #6 and repeat their system using a different medium
@@ -146,13 +178,13 @@ Read “Dancing with Systems” by Donella H. Meadows and be ready to discuss on
 
 ### Week 6 | Randomness	
 
-#### Tuesday, September 25
+#### TUESDAY, September 25
 
 - Intro to Randomness, Chance, and Probability 
 - Project #9: Shoot a collaborative exquisite corpse video 
 - Project #10: Go on a observational walk and draw a “dérive” map based on a random set of rules
 
-#### Thursday, September 27
+#### THURSDAY, September 27
 
 - Critique Project #6, #7, #8, #9, #10. Contribute THREEideas to the Idea Factory
 - Intro to Generative Art
@@ -161,14 +193,14 @@ Read Metagaming (excerpt) by Stephanie Boluk and Patrick LeMieux and be ready to
 
 ### Week 7 | Playing, Breaking, Hacking Games	
 
-#### Tuesday, October 2 - MEET AT N240
+#### TUESDAY, October 2 - MEET AT N240
 
 - Intro to Metagaming, Cheats, and Tricksteries 
 - Project #11: Form groups of two to play a game (assigned in class). Find new ways to play / break the game by adding / deleting / altering / ignoring rules. Document your process and write a How to Play manual. 
 
 *** Extra Credit *** Volunteer your labor at the ORANGE TWIN FARMHOUSE, 255 NOKETCHEE CREEK ROAD for three hours in the afternoon to earn bonus credit. You’d be coordinately invited to participate in a foraging walk and an evening performance by A Hawk and a Hacksaw at the same location on October 3 at 6pm. 
 
-#### Thursday, October 4 - MEET AT N240
+#### THURSDAY, October 4 - MEET AT N240
 
 - Twitter Bot Workshop
 - Project #12: Create a new social media profile and find new ways to exist on the platform by breaking expectations. Document your process and share with the class. 
@@ -177,7 +209,7 @@ Artist Research #3 (Due October 9)
 
 Form groups of two to research an artist (assigned in class) who makes work about body. Create a 5-minute, 20 slides Are.na presentation and be ready to present to class on Monday. Be sure to include the following information in your presentation:
 
-Artist bio
+- Artist bio
 - What aspects of the body are they interested in?
 - What mediums does the artist use in their work? 
 - Why are these mediums important to the artist? 
@@ -187,7 +219,7 @@ Artist bio
 
 ### Week 8 | Representation	
 
-#### Tuesday, October 9
+#### TUESDAY, October 9
 		
 - Artist Research #3 Presentation
 - Intro to the hot mess: sex, gender, race, and class
@@ -202,13 +234,13 @@ Read The Xenofeminist Manifesto (excerpt) by Laboria Cubonik and be ready to dis
 
 ### Week 9 | Labor	
 
-#### Tuesday, October 16
+#### TUESDAY, October 16
 
 - Reading discussion
 - Intro to Labor
 - Project #15: form groups of two and record a 3 minute video of your partner performing a repetetive labor   
 
-#### Thursday, October 18 - MEET AT N240
+#### THURSDAY, October 18 - MEET AT N240
 
 - Intro to Digital Labor and Mass Surveillance
 - Project #16: Digital Factory Simulation! 
@@ -217,13 +249,13 @@ Read 3D Addtivist Cookbook (excerpt) by Morehshin Allahyari & Daniel Rourke and 
 
 ### Week 10 | Bio-Art	
 
-#### Tuesday, October 23 - MEET at N200
+#### TUESDAY, October 23 - MEET at N200
 
 - Reading discussion 
 - Screening: DIYSECT (excerpt) by Mary Maggic and Benjamin Welmond
 - Project #17“Are You a Cyborg?” - form groups of two and figure out whether your partner is a cyborg. Present in class
 
-#### Thursday, October 25
+#### THURSDAY, October 25
 
 - Critique Project #13, #14, #15, #16, #17. Contribute THREE ideas to the Idea Factory
 
@@ -231,7 +263,7 @@ Artist Research #4 (Due October 30)
 
 Form groups of two to research an artist (assigned in class) who makes work about networks. Create a 5-minute, 20 slides Are.na presentation and be ready to present to class on Tuesday. Be sure to include the following information in your presentation:
 
-Artist bio
+- Artist bio
 - What kinds of network(s) are they investigating?
 - How does the artist capture / reproduce these abstract concepts? 
 - Why are these network(s) important to the artist? 
@@ -243,22 +275,22 @@ Artist bio
 
 #### Tuesday, October 30
 
-Artist Research #4 Presentation
-Intro to the Art of Communication
-Project #18: Create a centralized communication network and a decentralized communication network through performance
+- Artist Research #4 Presentation
+- Intro to the Art of Communication
+- Project #18: Create a centralized communication network and a decentralized communication network through performance
 
-#### Thursday, November 1 - Research Day, NO CLASS
+#### THURSDAY, November 1 - Research Day, NO CLASS
 
 Recommended reading: The Medium Is the Message (excerpt) by Marshall McLuhan   
 Recommended reading: The Society of the Spectacle (excerpt) by Guy Debord and Ken Knabb 
 
 ### Week 12		
 
-#### Tuesday, November 6 - MEET AT N200
+#### TUESDAY, November 6 - MEET AT N200
 
-Screening: All Watched Over by the Machines of Loving Grace by Adam Curtis
+- Screening: All Watched Over by the Machines of Loving Grace by Adam Curtis
 
-#### Thursday, November 8
+#### THURSDAY, November 8
 
 - Project #19: design and prototype a communication device
 
@@ -266,13 +298,13 @@ Read Critical Art Ensemble: Disturbances (excerpt) by Brian Holmes
 
 ### Week 13 | Utopia / Dystopia	 
 
-#### Tuesday, November 13
+#### TUESDAY, November 13
 
 - Reading discussion
 - Intro to Utopia / Dystopia
 - Project #20: teach the class how to use your Project #19 communication device. Work collaboratively to map a utopia or a dystopiabased around the communication devices
 
-#### Thursday, November 15
+#### THURSDAY, November 15
 
 *** Extra Credit *** Write a two-page personal reflection on the work you have produced this semester. What are some new ideas that came out of the process? What are you interested in exploring further and why? (12pt, Times New Roman, double-spaced). Due before class on November 27. 			
 
