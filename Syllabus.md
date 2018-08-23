@@ -141,6 +141,7 @@ Collect and bring THREE materials to Thursday’s class
 #### THURSDAY, August 23
 
 - Bioplastic Workshop
+- Artist Talk: Charles Harlan 
 
 Read “How to Be Complicit with Materials” by Petra Lange-Berndt and be ready to discuss on Tuesday
 
