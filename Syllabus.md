@@ -159,6 +159,41 @@ Read “How to Be Complicit with Materials” by Petra Lange-Berndt and be ready
 
 Read “Material” by Monika Wagner and be ready to discuss on Tuesday
 
+### Week 3 | Intangible Matter
+#### TUESDAY, September 4 - MEET AT N240
+- Reading discussion
+- Intro to Intangible Matter
+- Project #3: Make a Conductability Map
+
+Bring a plant with healthy, large leaves ( > 2”) to Thursday’s class
+
+#### THURSDAY, September 6 - MEET AT N240
+- Arduino Workshop
+- Project #4: Create a forest ensemble!
+
+### Week 4
+#### TUESDAY, September 11 - MEET AT N240
+- Project #5: Mapping Intangible Matter: analogue, digital, virtual
+- P5.js Computer Drawing Workshop
+
+#### THURSDAY, September 13 - MEET AT N240
+- 3D Sculptris Workshop
+- Review Project #1, #2, #3, #4, #5. Contribute THREE ideas to the
+Idea Factory
+
+Artist Research #2 (Due September 18)   
+
+Form groups of two to research an artist (assigned in class) who makes
+sense of the world through system-thinking. Create a 5-minute, 20
+slides Are.na presentation and be ready to present to class on Tuesday.
+Be sure to include the following information in your presentation:   
+
+- Artist bio
+- What kinds of systems are they investigating?
+- How does the artist collect / produce their “data”?
+- Why is system-system appropriate for the subjects?
+- How is the work received in the public sphere?
+
 ## 2. System
 
 ### Week 5 | Loop
