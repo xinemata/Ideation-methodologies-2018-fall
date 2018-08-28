@@ -10,6 +10,7 @@
 
 ### Fermentation
 1. Kombucha Leather Workshop
+1. [Kombucha Leather Recipe](https://drive.google.com/open?id=0ByT1im7tzFVbUUhnT0hTMkdZLTRKNThDSzZtMXRpcnJYWFlv) by Bioculture. 
 
 ### Plant-based Paper-Making
 1. Kudzu Paper-Making Workshop
