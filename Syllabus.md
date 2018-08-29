@@ -239,6 +239,7 @@ Read Metagaming (excerpt) by Stephanie Boluk and Patrick LeMieux and be ready to
 #### THURSDAY, October 4 - MEET AT N240
 
 - Twitter Bot Workshop
+- Artist Talk by [AC Carter](https://accarter.net/)
 - Project #12: Create a new social media profile and find new ways to exist on the platform by breaking expectations. Document your process and share with the class. 
 
 Artist Research #3 (Due October 9)
