@@ -9,8 +9,7 @@
 1. [Bio-plastic Handbook](https://issuu.com/oi-ying/docs/bio-plastic_handbook2) by Oi-Ying Kwong - detailed comparison on different types of bioplastic experiments. 
 
 ### Fermentation
-1. Kombucha Leather Workshop
 1. [Kombucha Leather Recipe](https://drive.google.com/open?id=0ByT1im7tzFVbUUhnT0hTMkdZLTRKNThDSzZtMXRpcnJYWFlv) by Bioculture. 
 
 ### Plant-based Paper-Making
-1. Kudzu Paper-Making Workshop
+1. [Kudzu Paper-Making Workshop](https://docs.google.com/presentation/d/1oEpA87_T3RbT-6uz1aUCBwn0vKWiBa_VV4lbCal-tRE/edit#slide=id.g3ff73a27c6_0_28)
