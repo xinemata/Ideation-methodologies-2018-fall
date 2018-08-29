@@ -2,7 +2,7 @@
 
 University of Georgia | Lamar Dodd School of Art | Fall 2018
 
-TR 2:00pm - 4:45pm     
+TR 1:55pm - 4:40pm     
 N140 (check course schedule for location change) 
 					
 Xin Xin (they / them)        
