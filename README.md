@@ -325,6 +325,8 @@ Recommended reading: The Society of the Spectacle (excerpt) by Guy Debord and Ke
 
 #### TUESDAY, November 6 - MEET AT N200
 
+Visiting guest: James Enos
+
 - Screening: All Watched Over by the Machines of Loving Grace by Adam Curtis
 
 #### THURSDAY, November 8
