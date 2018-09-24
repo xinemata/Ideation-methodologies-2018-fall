@@ -216,6 +216,7 @@ Read “Dancing with Systems” by Donella H. Meadows and be ready to discuss on
 
 #### TUESDAY, September 25
 
+- Reading discussion
 - Intro to Randomness, Chance, and Probability 
 - Project #9: Shoot a collaborative exquisite corpse video 
 - Project #10: Go on a observational walk and draw a “dérive” map based on a random set of rules
@@ -330,6 +331,8 @@ Visiting guest: James Enos
 - Screening: All Watched Over by the Machines of Loving Grace by Adam Curtis
 
 #### THURSDAY, November 8
+
+Visiting guest: [Lauren O'Connor-Korb](http://www.laurenock.com/)
 
 - Project #19: design and prototype a communication device
 
