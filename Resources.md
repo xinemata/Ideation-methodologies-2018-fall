@@ -13,3 +13,15 @@
 
 ### Plant-based Paper-Making
 1. [Kudzu Paper-Making Workshop](https://docs.google.com/presentation/d/1oEpA87_T3RbT-6uz1aUCBwn0vKWiBa_VV4lbCal-tRE/edit#slide=id.g3ff73a27c6_0_28)
+
+## #2 System
+### Twitter Bots
+1. [Unicode Garden](https://twitter.com/unicode_garden)
+1. [Soft Landscape](https://twitter.com/softlandscapes)
+1. [lots of eyes](https://twitter.com/lotsofeyes)
+1. [inifite deserts](https://twitter.com/infinitedeserts)
+1. [autoflâneur](https://twitter.com/autoflaneur)
+1. [Tiny Gallery](https://twitter.com/thetinygallery)
+1. [Teleport Bot](https://twitter.com/bot_teleport)
+1. [#facade](https://twitter.com/hashfacade)
+1. [petitsmotifs](https://twitter.com/petitsmotifs)
