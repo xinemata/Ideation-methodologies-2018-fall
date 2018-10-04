@@ -1,7 +1,0 @@
-- [Garbage Bag](https://docs.google.com/presentation/d/1KhKnJUxhhGz8ZkyPSY5DKCpOov2105828WMtavNXM0g/edit?usp=sharing) by Morgan Boswell and Madison Gibson
-- [IPhone Production](https://docs.google.com/presentation/d/1Zq9L_gcLzHtq-LGKTkv_7vSLwZVRDoG-6Kr3TcVmRcc/edit?ts=5b8ecb2d#slide=id.p) by Leslie Perez-Ramos, Eunice Kim, Phoebe Graham
-- [How to Make a Pencil](https://docs.google.com/presentation/d/1l8kfRV_s7XiTHmqj14Vkq9VMcEXOQwRkjxLat0a4eEs/edit?ts=5b8ecb39#slide=id.p) by Caitin Leard & Zach Broe
-- [Coins](https://docs.google.com/presentation/d/1Xmc4HTG1enmBPJNU9CvmeYMka2r1wtiSviAfmTyXyBs/edit?ts=5b8ecb4b#slide=id.p) by Toler & Frances
-- [Milk](https://docs.google.com/presentation/d/1fJfRFFduUSWrshdl1ZXIAv5tN4NrCvCLhuvjxtM9cBg/edit#slide=id.g35f391192_00) by Auriel Byrd and Paige Williams
-- [How Paper Money is Made](https://docs.google.com/presentation/d/1-EkTtCC5OSScRKbDsZyTdWhl1nSg7HH0e5j1rSHaEMY/edit?ts=5b8ed0c7#slide=id.p) by Jenny & Kristin
-- [How It's Made: LED Screen](https://docs.google.com/presentation/d/1aOA9sxrtd1rC-g7UHJikrbcm0H95A0wGwaA7S8ngRc4/edit?usp=sharing) by Jae & Jake
