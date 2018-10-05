@@ -25,6 +25,6 @@
 1. [inspirebot](https://twitter.com/inspirebot1) ([source](https://cheapbotsdonequick.com/source/inspirebot1)) by Morgan
 1. [Loaf of Bun](https://twitter.com/Victori77815703) ([source](https://cheapbotsdonequick.com/source/Victori7781570)) by Madison
 1. [guccigirl33](https://twitter.com/Tolo17816556) ([source](https://cheapbotsdonequick.com/source/Tolo17816556)) by Toler
-1. [Jiggly Tofu](https://twitter.com/JigglyTofu) ([source](https://cheapbotsdonequick.com/source/JigglyTofu) by Jae
-1. [Marlin](https://twitter.com/@cool_dad15) ([source](https://cheapbotsdonequick.com/source/0Rel2) by Auriel
+1. [Jiggly Tofu](https://twitter.com/JigglyTofu) ([source](https://cheapbotsdonequick.com/source/JigglyTofu)) by Jae
+1. [Marlin](https://twitter.com/@cool_dad15) ([source](https://cheapbotsdonequick.com/source/0Rel2)) by Auriel
 
