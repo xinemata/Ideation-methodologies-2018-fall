@@ -17,13 +17,14 @@
 1. [Slither.io](https://docs.google.com/document/d/1CFXuSS5sOdS0a8AEC6titsiWXNAyKuGxI_T21T3g5Ec/edit?ts=5bb66795) by Jenny & Leslie.
 
 ### Project 12: Build a Twitter Bot with [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/source/candyca74695588) by Kate Compton
-1. [candycat](https://twitter.com/candyca74695588) ([source](https://cheapbotsdonequick.com/source/candyca74695588)) by Caitlin. 
-1. [The End of the World as we Know it](https://twitter.com/Meobee1) ([source](https://cheapbotsdonequick.com/source/Meobee1)) by Phoebe.
-1. [Pup](https://twitter.com/pupthoughts) ([source](https://cheapbotsdonequick.com/source/pupthoughts)) by Eunice.
-1. [Cool Grandma](https://twitter.com/Emily91253686) ([source](https://cheapbotsdonequick.com/source/Emily9125368)) by Kristin.
-1. [Princess](https://twitter.com/Jenny38832695) ([source](https://cheapbotsdonequick.com/source/Jenny38832695)) by Jenny.
-1. [inspirebot](https://twitter.com/inspirebot1) ([source](https://cheapbotsdonequick.com/source/inspirebot1)) by Morgan.
-1. [Loaf of Bun](https://twitter.com/@Victori77815703) ([source](https://cheapbotsdonequick.com/source/@Victori77815703)) by Madison.
-1. [guccigirl33](https://twitter.com/Tolo17816556) ([source](https://cheapbotsdonequick.com/source/Tolo17816556)) by Toler.
-
+1. [candycat](https://twitter.com/candyca74695588) ([source](https://cheapbotsdonequick.com/source/candyca74695588)) by Caitlin
+1. [The End of the World as we Know it](https://twitter.com/Meobee1) ([source](https://cheapbotsdonequick.com/source/Meobee1)) by Phoebe
+1. [Pup](https://twitter.com/pupthoughts) ([source](https://cheapbotsdonequick.com/source/pupthoughts)) by Eunice
+1. [Cool Grandma](https://twitter.com/Emily91253686) ([source](https://cheapbotsdonequick.com/source/Emily9125368)) by Kristin
+1. [Princess](https://twitter.com/Jenny38832695) ([source](https://cheapbotsdonequick.com/source/Jenny38832695)) by Jenny
+1. [inspirebot](https://twitter.com/inspirebot1) ([source](https://cheapbotsdonequick.com/source/inspirebot1)) by Morgan
+1. [Loaf of Bun](https://twitter.com/Victori77815703) ([source](https://cheapbotsdonequick.com/source/Victori7781570)) by Madison
+1. [guccigirl33](https://twitter.com/Tolo17816556) ([source](https://cheapbotsdonequick.com/source/Tolo17816556)) by Toler
+1. [Jiggly Tofu](https://twitter.com/JigglyTofu) ([source](https://cheapbotsdonequick.com/source/JigglyTofu) by Jae
+1. [Marlin](https://twitter.com/@cool_dad15) ([source](https://cheapbotsdonequick.com/source/0Rel2) by Auriel
 
