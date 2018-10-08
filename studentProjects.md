@@ -27,4 +27,5 @@
 1. [guccigirl33](https://twitter.com/Tolo17816556) ([source](https://cheapbotsdonequick.com/source/Tolo17816556)) by Toler
 1. [Jiggly Tofu](https://twitter.com/JigglyTofu) ([source](https://cheapbotsdonequick.com/source/JigglyTofu)) by Jae
 1. [Marlin](https://twitter.com/@cool_dad15) ([source](https://cheapbotsdonequick.com/source/0Rel2)) by Auriel
+1. [Bianca](https://twitter.com/Mr_Bianc0) ([source](https://cheapbotsdonequick.com/source/Mr_Bianc0)) by Leslie
 
