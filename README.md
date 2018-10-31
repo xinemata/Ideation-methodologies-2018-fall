@@ -297,30 +297,19 @@ Read 3D Addtivist Cookbook (excerpt) by Morehshin Allahyari & Daniel Rourke and 
 
 - Critique Project #13, #14, #15, #16, #17. Contribute THREE ideas to the Idea Factory
 
-Artist Research #4 (Due October 30)
+Final Presentation Proposal (Due October 30)
 
-Form groups of two to research an artist (assigned in class) who makes work about networks. Create a 5-minute, 20 slides Are.na presentation and be ready to present to class on Tuesday. Be sure to include the following information in your presentation:
+Create a 3-minute, 20 slides Are.na presentation and be ready to present to class on Tuesday. 
 
-- Artist bio
-- What kinds of network(s) are they investigating?
-- How does the artist capture / reproduce these abstract concepts? 
-- Why are these network(s) important to the artist? 
-- How is the work received in the public sphere?
+## 4. Final Presentation
 
-## 4. Networks
-
-### Week 11 | Communication	
+### Week 11	
 
 #### Tuesday, October 30
 
-- Artist Research #4 Presentation
-- Intro to the Art of Communication
-- Project #18: Create a centralized communication network and a decentralized communication network through performance
+Final Presentation Proposal, present in class
 
 #### THURSDAY, November 1 - Research Day, NO CLASS
-
-Recommended reading: The Medium Is the Message (excerpt) by Marshall McLuhan   
-Recommended reading: The Society of the Spectacle (excerpt) by Guy Debord and Ken Knabb 
 
 ### Week 12		
 
@@ -334,19 +323,17 @@ Visiting guest: James Enos
 
 Visiting guest: [Lauren O'Connor-Korb](http://www.laurenock.com/)
 
-- Project #19: design and prototype a communication device
+- Studio day. One-on-one meetings with Lauren. Work on final project(s). 
 
-Read Critical Art Ensemble: Disturbances (excerpt) by Brian Holmes
-
-### Week 13 | Utopia / Dystopia	 
+### Week 13
 
 #### TUESDAY, November 13
 
-- Reading discussion
-- Intro to Utopia / Dystopia
-- Project #20: teach the class how to use your Project #19 communication device. Work collaboratively to map a utopia or a dystopiabased around the communication devices
+- Studio day. One-on-one meetings with Xin. Work on final project(s). 
 
 #### THURSDAY, November 15
+
+- Studio day. One-on-one check-ins with Xin. Work on final project(s). 
 
 *** Extra Credit *** Write a two-page personal reflection on the work you have produced this semester. What are some new ideas that came out of the process? What are you interested in exploring further and why? (12pt, Times New Roman, double-spaced). Due before class on November 27. 			
 
@@ -358,7 +345,7 @@ Read Critical Art Ensemble: Disturbances (excerpt) by Brian Holmes
 
 #### TUESDAY, November 27
 
-- Studio day: revisit all the collaborative / solo work you have done this semester and select THREE projects for the final presentation. Use class time to expand and tweak the quality / nuances / contexts of each project. Meet one-on-one with Xin to discuss installation plan. 
+- Studio day: bring selected projects to completion and install. 
 
 #### THURSDAY, November 29
 
