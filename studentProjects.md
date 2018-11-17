@@ -7,6 +7,12 @@
 1. [How Paper Money is Made](https://docs.google.com/presentation/d/1-EkTtCC5OSScRKbDsZyTdWhl1nSg7HH0e5j1rSHaEMY/edit?ts=5b8ed0c7#slide=id.p) by Jenny & Kristin
 1. [How It's Made: LED Screen](https://docs.google.com/presentation/d/1aOA9sxrtd1rC-g7UHJikrbcm0H95A0wGwaA7S8ngRc4/edit?usp=sharing) by Jae & Jake
 
+### Project 9: Collaborative Exquisite Corpse Video
+1. [Frances, Jenny, Toler](https://drive.google.com/open?id=1LdGeV3uS5J92nNqWAeDL7yW--Zj8Ssop)
+1. [Leslie, Jae, Zach](https://drive.google.com/file/d/1tctqXYJNozf-guXeHObQJthhccEBPQcb/view?usp=sharing)
+1. [Morgan, Caitlin, Auriel](https://drive.google.com/open?id=1nG0YOaohLERk3Ymv35395eq6c3FoZfcM)
+1. [Kristin, Madison, Phoebe](https://drive.google.com/open?id=1KmamX7sV7IsGdO4qlthSA4WvyFAH_gDW)
+
 ### Project 11: Metagaming
 1. [Grand Theft Auto](https://docs.google.com/document/d/1FKGG3Z6Wb7PkJ-xuaDN-0KtDjHuenz_OeXGdvgQK-vw/edit?ts=5bb65ed9) by Frances & Toler
 1. [New Ways to Play Slither.io](https://docs.google.com/document/d/1XB6NyDrVj2QWY4HNiI8a0rbtSF8tQ5UXX6DRaRPA0S0/edit?ts=5bb65dc0) by Zach & Caitlin
@@ -29,3 +35,12 @@
 1. [Marlin](https://twitter.com/@cool_dad15) ([source](https://cheapbotsdonequick.com/source/0Rel2)) by Auriel
 1. [Bianca](https://twitter.com/Mr_Bianc0) ([source](https://cheapbotsdonequick.com/source/Mr_Bianc0)) by Leslie
 
+### Project 15: Documenting Labor
+1. [Caitlin](https://drive.google.com/file/d/1ddV5PH2a_bE3dXA84x_L_-ipGFEkzwIL/view?usp=sharing)
+1. [Jenny](https://drive.google.com/file/d/1fKFzrbDm8soETciqTZ43tlMKFN0iwqz8/view?usp=sharing)
+1. [Auriel](https://drive.google.com/file/d/1QABiZ2mwCEarUCjcN6UTAnml8rvqo1xq/view?usp=sharing)
+1. [Kristin](https://drive.google.com/file/d/10U3Iu9xifHxOd1gW0KdTPYg3z-lPDLAN/view?usp=sharing)
+1. [Sandwich Artist](https://drive.google.com/open?id=1nY2J9DLMOB89LPMe3b-MDiIvuClnJPZb) by Morgan
+1. [Phoebe](https://www.youtube.com/watch?v=2uLO2EWqlUQ&feature=youtu.be)
+1. [Time to Quit](https://drive.google.com/open?id=19DtU1CmKTzFYt5DmicOUmiqPKcL0iaf7) by Zach & Jae & Jake
+1. [Working Woman](https://drive.google.com/open?id=1ZD7VMwASgQfQrLeLDqVDlBaCyp9373zc) by Frances
