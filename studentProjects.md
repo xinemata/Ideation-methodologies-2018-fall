@@ -7,6 +7,9 @@
 1. [How Paper Money is Made](https://docs.google.com/presentation/d/1-EkTtCC5OSScRKbDsZyTdWhl1nSg7HH0e5j1rSHaEMY/edit?ts=5b8ed0c7#slide=id.p) by Jenny & Kristin
 1. [How It's Made: LED Screen](https://docs.google.com/presentation/d/1aOA9sxrtd1rC-g7UHJikrbcm0H95A0wGwaA7S8ngRc4/edit?usp=sharing) by Jae & Jake
 
+### Project 7: Translated Systems
+1. [Lame Pen Beats](https://drive.google.com/open?id=1TLrBhJMNXzyHh32io-410TSMugwTWMbI) by Jae Zhang
+
 ### Project 9: Collaborative Exquisite Corpse Video
 1. [Frances, Jenny, Toler](https://drive.google.com/open?id=1LdGeV3uS5J92nNqWAeDL7yW--Zj8Ssop)
 1. [Leslie, Jae, Zach](https://drive.google.com/file/d/1tctqXYJNozf-guXeHObQJthhccEBPQcb/view?usp=sharing)
