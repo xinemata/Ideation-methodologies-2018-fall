@@ -351,8 +351,10 @@ Visiting guest: [Lauren O'Connor-Korb](http://www.laurenock.com/)
 
 - Studio day: bring selected projects to completion and install.   
 
-### Finals Week | Presentation	
+### Exhibition & Final Critique	
 
-#### TUESDAY, December 11 - MEET FROM 3:30PM - 6:30PM, LOCATION TBA
+#### Tuesday, December 4 - Utopia / Dystopia Opening, 5PM - 7PM, SAC Project Space
 
-- Final critique and dinner party!
+#### Wednesday, December 5 - MEET FROM 11AM - 1PM, SAC Project Space
+
+- Final critique and dinner party! Please bring food, bowls, and utensils. I will prepare rice bowl. 
